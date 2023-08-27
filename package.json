@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-express-cd-with-github-webhook",
+  "version": "1.0.0",
+  "description": "Simple solution for continuous deployment of a nodejs/express application using a github web hook",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
